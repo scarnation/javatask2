@@ -1,1 +1,1 @@
-![](Activity%20image/screenshot)
+![](Acvtivity%20image/screenshot.jpeg)
