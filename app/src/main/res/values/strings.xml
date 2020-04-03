@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">scaryva</string>
+    <string name="todo">TODO</string>
+    <string name="name_nnadiukwu_chidiebere_oscar">Name: Nnadiukwu Chidiebere Oscar</string>
+    <string name="slack_i_d_scarnation">Slack i.d: scarnation</string>
+    <string name="email_nnadiuwuoscar_gmail_com">email: nnadiuwuoscar@gmail.com</string>
+    <string name="football">Football</string>
+    <string name="swimming">Swimming</string>
+    <string name="cooking">Cooking</string>
+    <string name="hobbies">HOBBIES:</string>
+    <string name="coding">Coding</string>
+    <string name="todi">TODI</string>
+    <string name="todj">TODO</string>
+    <string name="todk">TODO</string>
+    <string name="todl">TODO</string>
+    <string name="todm">TODO</string>
+    <string name="todn">TODO</string>
+    <string name="todp">TODO</string>
+    <string name="likes">likes</string>
+    <string name="sci_fi_documentries">sci/fi documentries</string>
+    <string name="gaming">gaming</string>
+    <string name="dislikes">Dislikes</string>
+    <string name="cats">cats</string>
+    <string name="dogs">dogs</string>
+    <string name="nollywood_movies">nollywood movies</string>
+</resources>
